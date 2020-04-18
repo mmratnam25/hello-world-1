@@ -1,3 +1,3 @@
-<h1>HAPPY NEW YEAR 2020 </h1>
-<h2> Deploy WAR file on Docker Container thru ansible Playbooks </h2>
-<h3> Jenkis CI/CD Pipeline thru ansible Playbooks </h3>
+<h1> STAY @HOME ... TO AVOID COVID-19 VIRUS <h1>
+<h2> Create new Image and push in to Docker Host</h2>
+<h3> Jenkis CI/CD Pipeline thru Docker file </h3>
